@@ -16,7 +16,6 @@ import java.util.Scanner;
 public class Game {
 
 	public static void main(String[] args) {
-	
 		
 		//initialise Scanner and Random classes
 		Scanner scanner = new Scanner(System.in);
